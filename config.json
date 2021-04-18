@@ -52,13 +52,13 @@
   "Support4K": true,
   "MouseColor": {
     "R": 255,
-    "G": 50,
-    "B": 95
+    "G": 30,
+    "B": 30
   },
   "MouseBorderColor": {
-    "R": 64,
-    "G": 64,
-    "B": 64,
+    "R": 127,
+    "G": 126,
+    "B": 1,
     "A": 64
   },
   "QuickLaunch": false,
